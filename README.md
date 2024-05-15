@@ -72,6 +72,15 @@ Several parameters are required to run EPOC:
  python run_epoc_bench.py --maxsize=4 --dir="bench" --filepath="pulse_lib.csv"  --dest="performance_bench.csv"           
 ```
 
+## Code Contributors
+
+Yuchen Zhu, Jinglei Cheng
+
+## Contact
+
+Jinglei Cheng cheng636@purdue.edu
+Yuchen Zhu yuchen.zhu7k@gmail.com
+
 ## Citation
 
 ```BibTeX
